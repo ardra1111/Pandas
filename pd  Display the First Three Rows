@@ -1,4 +1,4 @@
-'''
+
 DataFrame: employees
 +-------------+--------+
 | Column Name | Type   |
@@ -36,7 +36,7 @@ Output:
 +-------------+---------+-------------+--------+
 Explanation: 
 Only the first 3 rows are displayed.
-'''
+
 #Solution
 
 import pandas as pd
